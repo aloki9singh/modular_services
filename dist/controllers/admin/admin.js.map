@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/controllers/admin/admin.ts"],"sourcesContent":["/**\r\n * Admin Controller\r\n */\r\nclass AdminCotroller {\r\n}\r\n\r\nexport default AdminCotroller;\r\n"],"names":["AdminCotroller"],"mappings":";;;;+BAMA;;;eAAA;;;AAHA,IAAA,AAAMA,iBAAN,MAAMA;AACN;MAEA,WAAeA"}

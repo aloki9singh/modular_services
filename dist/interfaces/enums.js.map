@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/interfaces/enums.ts"],"sourcesContent":["export enum AdminUserRole {\r\n\tSUPER_ADMIN = 'SuperAdmin',\r\n\tADMIN = 'Admin',\r\n}\r\n"],"names":["AdminUserRole"],"mappings":";;;;;;;;;;;UAAYA;;;GAAAA,kBAAAA"}

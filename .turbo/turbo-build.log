@@ -1,0 +1,5 @@
+
+> gpt-central-backend@1.0.0 build C:\Users\kshat\OneDrive\Desktop\SDE Intern Masai\Todeploy\modular-services\apps\server
+> swc src -d dist --source-maps --copy-files
+
+Successfully compiled: 53 files with swc (153.65ms)
